@@ -1,0 +1,23 @@
+Positive Sentiment:
+
+"Absolutely loved this movie! The acting was phenomenal, and the storyline was emotionally gripping. Definitely one of the best films I’ve seen in years!"
+"A brilliant masterpiece. The cinematography was stunning, and the performances were top-notch. I can't wait to watch it again!"
+"This was an incredible experience. The plot was fresh, and the character development was on point. Highly recommend it to anyone who loves a good drama!"
+"Such a heartwarming film. It made me laugh, cry, and everything in between. I’m so glad I watched it!"
+"A true cinematic gem. It’s rare to find a movie that entertains and makes you think. I’ll definitely be recommending this one."
+
+Neutral Sentiment:
+
+"It was an okay movie. Some parts were engaging, but others felt a bit too predictable. Overall, I would say it’s worth watching if you have nothing else to do."
+"The movie had its highs and lows. While it wasn’t bad, it didn’t really stand out either. I wouldn't go out of my way to watch it again."
+"The movie was decent, but not anything special. It was a bit slow, and the characters didn’t feel very memorable."
+"It wasn’t a bad film, but I expected more. Some of the jokes landed, but others fell flat. A middle-of-the-road experience overall."
+"I thought it was okay. Some scenes were entertaining, but the pacing was off in a few parts. It's one of those films that’s fine to watch once."
+
+Negative Sentiment:
+
+"This was such a disappointment. The plot was all over the place, and the acting was subpar. I honestly don’t know why it got such good reviews."
+"I had high expectations, but the movie just didn’t deliver. The story felt dragged out, and the characters were not likable at all."
+"The movie was boring and unoriginal. It tried to be emotional but just felt forced. I couldn’t wait for it to end."
+"Absolutely hated this movie. The special effects were over the top, and the plot was confusing. I regret spending my time watching it."
+"This film was a complete waste of time. The pacing was terrible, and I couldn't connect with any of the characters. Definitely not recommended."
