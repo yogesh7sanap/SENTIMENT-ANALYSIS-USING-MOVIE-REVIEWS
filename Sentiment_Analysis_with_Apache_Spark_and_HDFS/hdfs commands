@@ -1,0 +1,11 @@
+yogesh@yogesh-Inspiron-5577:~$ start-dfs.sh
+yogesh@yogesh-Inspiron-5577:~$ start-yarn.sh
+yogesh@yogesh-Inspiron-5577:~$ jps
+yogesh@yogesh-Inspiron-5577:~$ hdfs dfs -ls /user/yogesh/
+yogesh@yogesh-Inspiron-5577:~$ hdfs dfs -mkdir /user/yogesh/sentiment_analysis
+yogesh@yogesh-Inspiron-5577:~$ hdfs dfs -mkdir /user/yogesh/sentiment_analysis/movies_data
+yogesh@yogesh-Inspiron-5577:~$ hdfs dfs -cat /user/yogesh/sentiment_analysis/movies_data/movie_data/data1..Sooryavanshi.json
+yogesh@yogesh-Inspiron-5577:~$ stop-yarn.sh
+yogesh@yogesh-Inspiron-5577:~$ stop-dfs.sh
+yogesh@yogesh-Inspiron-5577:~$ jps
+
