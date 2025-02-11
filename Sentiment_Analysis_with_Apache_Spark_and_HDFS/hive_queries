@@ -1,0 +1,29 @@
+----------------------------------------------------------------
+
+CREATE TABLE movie_reviews (
+    movie_id STRING,
+    movie_name STRING,
+    movie_rating STRING,
+    review_username STRING,
+    review_rating STRING,
+    review_title STRING,
+    review_detailed_main STRING
+)
+ROW FORMAT SERDE 'org.apache.hive.hcatalog.data.JsonSerDe'
+STORED AS TEXTFILE;
+
+LOAD DATA LOCAL INPATH '/user/yogesh/sentiment_analysis/movie_data_formatted/' INTO TABLE movie_reviews;
+
+LOAD DATA LOCAL INPATH '' INTO TABLE movie_reviews;
+
+-----------------------------------------------------------------
+
+select * from movie_reviews limit 5;
+
+select count(*) from movie_reviews;
+
+select distinct(movie_name) from movie_reviews;
+
+select movie_id from movie_reviews limit 5;
+
+-----------------------------------------------------------------
