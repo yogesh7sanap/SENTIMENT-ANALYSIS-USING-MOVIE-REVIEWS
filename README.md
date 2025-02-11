@@ -26,7 +26,8 @@ Deployed App URL - https://sentiment-analysis-app-app-cdac-project-ml.streamlit.
 
 ![Screenshot from 2025-02-11 04-07-12](https://github.com/user-attachments/assets/98ec5ada-5473-4e7d-bcc0-6d71d8b7b9bc)
 
-![Screenshot from 2025-02-11 03-28-56](https://github.com/user-attachments/assets/57f06ea2-57e2-4ff7-b448-f299b4143414)
+![Screenshot from 2025-02-11 06-27-57](https://github.com/user-attachments/assets/2843e1fe-a3d8-4f51-9dc3-6146015ffe6d)
+
 
 
 
