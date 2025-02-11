@@ -15,17 +15,20 @@ Deployed App URL - https://sentiment-analysis-app-app-cdac-project-ml.streamlit.
 ----------------------------------------------------------------------------------------------------------------------------
 | Apache Spark | HDFS | Hive |
 
-file:///home/yogesh/Sunbeam_DBDA/0.Project/001.Big_Data/Screenshot%20from%202025-02-11%2003-52-24.png
 
-file:///home/yogesh/Sunbeam_DBDA/0.Project/001.Big_Data/Screenshot%20from%202025-02-11%2003-52-49.png
+![Screenshot from 2025-02-11 03-52-24](https://github.com/user-attachments/assets/7c10ba04-3522-4ee7-baa9-5d7ed40fa384)
 
-file:///home/yogesh/Sunbeam_DBDA/0.Project/001.Big_Data/Screenshot%20from%202025-02-11%2003-52-57.png
+![Screenshot from 2025-02-11 03-52-49](https://github.com/user-attachments/assets/3686bd80-e0a3-48e9-ad6d-01c8ffc7c6b9)
 
-![Screenshot from 2025-02-11 03-28-56](https://github.com/user-attachments/assets/bb317d2a-bfdd-44b7-9ad9-9101ccbee2df)
+![Screenshot from 2025-02-11 03-52-57](https://github.com/user-attachments/assets/d2759f70-f490-4ad0-9e40-30702062c8c1)
 
-file:///home/yogesh/Sunbeam_DBDA/0.Project/001.Big_Data/Screenshot%20from%202025-02-11%2004-07-12.png
+![Screenshot from 2025-02-11 05-48-07](https://github.com/user-attachments/assets/f82c7a54-f910-4079-8fd2-74d6bea96c75)
 
-file:///home/yogesh/Sunbeam_DBDA/0.Project/001.Big_Data/Screenshot%20from%202025-02-11%2005-48-07.png
+![Screenshot from 2025-02-11 04-07-12](https://github.com/user-attachments/assets/98ec5ada-5473-4e7d-bcc0-6d71d8b7b9bc)
+
+![Screenshot from 2025-02-11 03-28-56](https://github.com/user-attachments/assets/57f06ea2-57e2-4ff7-b448-f299b4143414)
+
+
 
 
 
